@@ -16,6 +16,15 @@ Existem vários critérios que eu consideraria ao implementar uma nova funcional
 
 `Segurança`: garantindo que a funcionalidade seja segura contra possíveis ameaças, como ataques de injeção de SQL, XSS, entre outros, garantindo a privacidade e os dados dos usuários.
 
+<h3>2.Em qual etapa da implementação você considera a qualidade de software?</h3>
+Eu consideraria a qualidade de software em todas as etapas da implementação, desde o planejamento até o desenvolvimento e manutenção. <br>
+
+No planejamento, é importante estabelecer metas e objetivos de qualidade claros para o projeto, e identificar quais critérios de qualidade serão utilizados para medir o sucesso do projeto. Isso pode incluir coisas como desempenho, segurança, escalabilidade, entre outros.
+
+Durante o desenvolvimento, é importante implementar as funcionalidades de acordo com as boas práticas de qualidade de software, como escrever testes unitários e testes de aceitação, usar padrões de projeto apropriados, seguir boas práticas de codificação, e usar ferramentas de verificação de qualidade automatizadas, como o lint, análise estática de código.
+
+Depois de lançado, é importante continuar monitorando e medindo a qualidade do software, e realizando testes de qualidade contínuos, bem como manter e melhorar a qualidade do software, através de atualizações, correções, e manutenção preventiva.
+
  ```
  Usando Spring boot, crie uma API simples para gerenciar Pessoas. Esta API deve permitir: 
  
